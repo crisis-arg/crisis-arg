@@ -1,0 +1,117 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level-05.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Pixel_adventure.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Shadow.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level-01.tmx": {
+            "expandedObjectLayers": [
+                4,
+                5
+            ],
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 319.75,
+                "y": 183.75
+            }
+        },
+        "level-02.tmx": {
+            "expandedGroupLayers": [
+                4
+            ],
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 319.75,
+                "y": 183.75
+            }
+        },
+        "level-02.tmx#Pixel_adventure": {
+            "scaleInDock": 1
+        },
+        "level-03.tmx": {
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 2.0276562499999997,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 319.82738691531176,
+                "y": 184.20282037450875
+            }
+        },
+        "level-04.tmx": {
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 2.0276562499999997,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 319.82738691531176,
+                "y": 184.20282037450875
+            }
+        },
+        "level-05.tmx": {
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 328.25,
+                "y": 243.25
+            }
+        }
+    },
+    "last.imagePath": "D:/game_app/pixel_adventure/assets/images/Other",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "Pixel_adventure.tsx",
+        "level-01.tmx",
+        "level-02.tmx",
+        "level-03.tmx",
+        "level-04.tmx",
+        "level-05.tmx"
+    ],
+    "project": "pixel_adventure.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "Pixel_adventure.tsx",
+        "level-01.tmx",
+        "level-02.tmx",
+        "level-03.tmx",
+        "level-04.tmx",
+        "level-05.tmx",
+        "Shadow.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
